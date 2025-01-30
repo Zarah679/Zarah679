@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zarah679
 - 👀 I’m interested in Python and web dev 
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on anything tech related
 - 📫 How to reach me Zarahsada@gmail.com
 
